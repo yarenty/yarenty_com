@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="post-content">
+    {{ section.content | safe }}
+</div>
+
+<div class="latest-posts">
+    <h2>Latest Blog Posts</h2>
+    <ul>
+        {% for page in section.pages | filter(attribute="section", value="blog") | slice(end=4) %}
+            <li>
+                <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+                <p>{{ page.description }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="latest-projects">
+    <h2>Latest Projects</h2>
+    <ul>
+        {% for page in section.pages | filter(attribute="section", value="projects") | slice(end=2) %}
+            <li>
+                <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+                <p>{{ page.description }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock content %}
