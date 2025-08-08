@@ -21,9 +21,9 @@ LLM Fine-tuning Platform - A platform for fine-tuning large language models.
 
 ---
 
-## Professional Timeline
+## Professional Timeline {.timeline-section}
 
-### 2014 - Present: Software Architect of AI
+### 2014 - Present: Software Architect of AI {.timeline-item}
 **Huawei - Research and Development**
 
 - **LLM/RAG** – researching and building fully customizable LLM/RAG solution (ChatGPT, copilot, agents) on local premises in high performance manner using Rust as main language.
@@ -42,7 +42,7 @@ LLM Fine-tuning Platform - A platform for fine-tuning large language models.
 
 ---
 
-### 2011 - 2014: Software Architect
+### 2011 - 2014: Software Architect {.timeline-item}
 **Citibank - Global Concentration Engine. Liquidity Sector**
 
 **Responsibilities:** GCE governance. Introducing and applying architecture changes for high performance processing engines. Focusing on SLA/OLA requirements.
@@ -51,7 +51,7 @@ LLM Fine-tuning Platform - A platform for fine-tuning large language models.
 
 ---
 
-### 2009 - 2011: Senior Software Developer
+### 2009 - 2011: Senior Software Developer {.timeline-item}
 **PaddyPower - Global Concentration Engine. Liquidity Sector**
 
 **RAMP** – Risk Advanced Management Platform. Central point of management different bookmaking applications.
@@ -66,7 +66,7 @@ LLM Fine-tuning Platform - A platform for fine-tuning large language models.
 
 ---
 
-### 2009 - 2011: Senior Software Developer
+### 2009 - 2011: Senior Software Developer {.timeline-item}
 **PaddyPower - Global Concentration Engine. Liquidity Sector**
 
 **RAMP** – Risk Advanced Management Platform. Central point of management different bookmaking applications.
@@ -81,7 +81,7 @@ LLM Fine-tuning Platform - A platform for fine-tuning large language models.
 
 ---
 
-### 1999 - 2008: Senior Software Developer
+### 1999 - 2008: Senior Software Developer {.timeline-item}
 **SYGNITY SA [COMPUTERLAND] WROCLAW, POLAND**
 
 **FICRES for Santander Consumer Bank** - Core Banking System for Poland, Russia, Netherlands, UK and other countries.
